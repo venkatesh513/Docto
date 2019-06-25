@@ -1,5 +1,5 @@
 //
-//  ViewController.swift
+//  AvailableDoctorsVC.swift
 //  Docto
 //
 //  Created by Venkatesh Bathina on 06/12/18.
@@ -8,13 +8,11 @@
 
 import UIKit
 
-class ViewController: UIViewController {
+class AvailableDoctorsVC: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view, typically from a nib.
+
+        // Do any additional setup after loading the view.
     }
-
-
 }
-

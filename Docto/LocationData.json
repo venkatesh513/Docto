@@ -1,0 +1,309 @@
+{
+    "doctors": [
+        {
+            "name": "Dr. Donna Rutherford",
+            "description": "Sakra World Hospital",
+            "photo": "https://image.shutterstock.com/image-vector/happy-woman-icon-image-450w-661665682.jpg",
+            "specialities": [
+                "Orthopedist",
+                "Neurologist"
+            ],
+            "slots": [
+                {
+                    "time": "9-10",
+                    "userid": null
+                },
+                {
+                    "time": "10-11",
+                    "userid": null
+                },
+                {
+                    "time": "11-12",
+                    "userid": null
+                },
+                {
+                    "time": "2-3",
+                    "userid": "Lili Whiteley"
+                },
+                {
+                    "time": "3-4",
+                    "userid": null
+                }
+            ]
+        },
+        {
+            "name": "Dr. Alexander Paige",
+            "description": "Levine Memorial Hospital",
+            "photo": "https://image.shutterstock.com/image-illustration/handsome-grandpa-withe-pretty-eyes-450w-1038813955.jpg",
+            "specialities": [
+                "General Physician"
+            ],
+            "slots": [
+                {
+                    "time": "9-10",
+                    "userid": null
+                },
+                {
+                    "time": "10-11",
+                    "userid": "Vladimir Shaffer"
+                },
+                {
+                    "time": "11-12",
+                    "userid": null
+                },
+                {
+                    "time": "2-3",
+                    "userid": "Lili Whiteley"
+                },
+                {
+                    "time": "3-4",
+                    "userid": null
+                }
+            ]
+        },
+        {
+            "name": "Dr. Stewart Sutherland",
+            "description": "Sakra World Hospital",
+            "photo": "https://image.shutterstock.com/image-vector/young-businessman-avatar-character-450w-617543555.jpg",
+            "specialities": [
+                "Cardiologist"
+            ],
+            "slots": [
+                {
+                    "time": "9-10",
+                    "userid": null
+                },
+                {
+                    "time": "10-11",
+                    "userid": null
+                },
+                {
+                    "time": "11-12",
+                    "userid": null
+                },
+                {
+                    "time": "2-3",
+                    "userid": null
+                },
+                {
+                    "time": "3-4",
+                    "userid": null
+                }
+            ]
+        },
+        {
+            "name": "Dr. Ava Hemmings",
+            "description": "Hope Hospital",
+            "photo": "https://image.shutterstock.com/image-vector/beauty-woman-hipster-avatar-vector-450w-1007572495.jpg",
+            "specialities": [
+                "ENT specialist",
+                "General Physician"
+            ],
+            "slots": [
+                {
+                    "time": "9-10",
+                    "userid": "Lili Whiteley"
+                },
+                {
+                    "time": "10-11",
+                    "userid": null
+                },
+                {
+                    "time": "11-12",
+                    "userid": null
+                },
+                {
+                    "time": "2-3",
+                    "userid": null
+                },
+                {
+                    "time": "3-4",
+                    "userid": null
+                }
+            ]
+        },
+        {
+            "name": "Dr. Michael Taylor",
+            "description": "Narayana Multispeciality Hospital",
+            "photo": "https://image.shutterstock.com/image-vector/face-expression-man-glasses-blond-450w-1016954167.jpg",
+            "specialities": [
+                "Pediatrician"
+            ],
+            "slots": [
+                {
+                    "time": "9-10",
+                    "userid": null
+                },
+                {
+                    "time": "10-11",
+                    "userid": null
+                },
+                {
+                    "time": "11-12",
+                    "userid": null
+                },
+                {
+                    "time": "2-3",
+                    "userid": "Iqrah Doherty"
+                },
+                {
+                    "time": "3-4",
+                    "userid": null
+                }
+            ]
+        },
+        {
+            "name": "Dr. Ian Hunter",
+            "description": "Apollo Hospital",
+            "photo": "https://image.shutterstock.com/image-vector/young-man-beard-moustaches-sunglasses-450w-761921290.jpg",
+            "specialities": [
+                "Pediatrician",
+                "Cardiologist"
+            ],
+            "slots": [
+                {
+                    "time": "9-10",
+                    "userid": null
+                },
+                {
+                    "time": "10-11",
+                    "userid": null
+                },
+                {
+                    "time": "11-12",
+                    "userid": null
+                },
+                {
+                    "time": "2-3",
+                    "userid": null
+                },
+                {
+                    "time": "3-4",
+                    "userid": null
+                }
+            ]
+        },
+        {
+            "name": "Dr. Blake Nolan",
+            "description": "Sakra World Hospital",
+            "photo": "https://image.shutterstock.com/image-illustration/stand-comedy-male-laughing-funny-450w-527759296.jpg",
+            "specialities": [
+                "Orthopedist"
+            ],
+            "slots": [
+                {
+                    "time": "9-10",
+                    "userid": null
+                },
+                {
+                    "time": "10-11",
+                    "userid": null
+                },
+                {
+                    "time": "11-12",
+                    "userid": null
+                },
+                {
+                    "time": "2-3",
+                    "userid": null
+                },
+                {
+                    "time": "3-4",
+                    "userid": null
+                }
+            ]
+        },
+        {
+            "name": "Dr. Andrew Clarkson",
+            "description": "Apollo Hopital",
+            "photo": "https://image.shutterstock.com/image-vector/man-character-face-avatar-glasses-450w-542759665.jpg",
+            "specialities": [
+                "General Physician"
+            ],
+            "slots": [
+                {
+                    "time": "9-10",
+                    "userid": null
+                },
+                {
+                    "time": "10-11",
+                    "userid": null
+                },
+                {
+                    "time": "11-12",
+                    "userid": null
+                },
+                {
+                    "time": "2-3",
+                    "userid": null
+                },
+                {
+                    "time": "3-4",
+                    "userid": "Iqrah Doherty"
+                }
+            ]
+        },
+        {
+            "name": "Dr. Donna Rutherford",
+            "description": "Levine Memorial Hospital",
+            "photo": "https://image.shutterstock.com/image-vector/woman-elegant-blouse-wearing-glasses-450w-1181741368.jpg",
+            "specialities": [
+                "Neurologist",
+                "Cardiologist"
+            ],
+            "slots": [
+                {
+                    "time": "9-10",
+                    "userid": null
+                },
+                {
+                    "time": "10-11",
+                    "userid": null
+                },
+                {
+                    "time": "11-12",
+                    "userid": null
+                },
+                {
+                    "time": "2-3",
+                    "userid": null
+                },
+                {
+                    "time": "3-4",
+                    "userid": null
+                }
+            ]
+        },
+        {
+            "name": "Dr. Sebastian Taylor",
+            "description": "Apollo Hospital",
+            "photo": "https://image.shutterstock.com/image-vector/male-hipster-cartoon-character-icon-450w-637092754.jpg",
+            "specialities": [
+                "ENT specialist"
+            ],
+            "slots": [
+                {
+                    "time": "9-10",
+                    "userid": null
+                },
+                {
+                    "time": "10-11",
+                    "userid": null
+                },
+                {
+                    "time": "11-12",
+                    "userid": "Anand Mckenna"
+                },
+                {
+                    "time": "2-3",
+                    "userid": null
+                },
+                {
+                    "time": "3-4",
+                    "userid": null
+                }
+            ]
+        }
+    ],
+    "userid": "Vladimir Shaffer"
+}

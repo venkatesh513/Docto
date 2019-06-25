@@ -7,13 +7,20 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		9E27A51D22C1FDDE004A16E2 /* DummyViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9E27A51C22C1FDDE004A16E2 /* DummyViewController.swift */; };
 		9E9C9A7621B8EDC0008A976B /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9E9C9A7521B8EDC0008A976B /* AppDelegate.swift */; };
-		9E9C9A7821B8EDC0008A976B /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9E9C9A7721B8EDC0008A976B /* ViewController.swift */; };
 		9E9C9A7B21B8EDC0008A976B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9E9C9A7921B8EDC0008A976B /* Main.storyboard */; };
 		9E9C9A7D21B8EDC2008A976B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 9E9C9A7C21B8EDC2008A976B /* Assets.xcassets */; };
 		9E9C9A8021B8EDC2008A976B /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 9E9C9A7E21B8EDC2008A976B /* LaunchScreen.storyboard */; };
 		9E9C9A8B21B8EDC2008A976B /* DoctoTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9E9C9A8A21B8EDC2008A976B /* DoctoTests.swift */; };
 		9E9C9A9621B8EDC2008A976B /* DoctoUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9E9C9A9521B8EDC2008A976B /* DoctoUITests.swift */; };
+		9E9C9AA621B8EE72008A976B /* DoctoM.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9E9C9AA521B8EE72008A976B /* DoctoM.swift */; };
+		9E9C9AA821B8F471008A976B /* AvailableDoctorsVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9E9C9AA721B8F471008A976B /* AvailableDoctorsVC.swift */; };
+		9E9C9AAA21B8F4D0008A976B /* MianVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9E9C9AA921B8F4D0008A976B /* MianVC.swift */; };
+		9E9C9AAC21B8F68E008A976B /* MyAppointmentsVC.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9E9C9AAB21B8F68E008A976B /* MyAppointmentsVC.swift */; };
+		9E9C9AAE21B8F868008A976B /* DoctorsCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9E9C9AAD21B8F868008A976B /* DoctorsCell.swift */; };
+		9E9C9AB021B8F88E008A976B /* TimeSlotsCell.swift in Sources */ = {isa = PBXBuildFile; fileRef = 9E9C9AAF21B8F88E008A976B /* TimeSlotsCell.swift */; };
+		9E9C9AB421B8FDE0008A976B /* LocationData.json in Resources */ = {isa = PBXBuildFile; fileRef = 9E9C9AB321B8FDE0008A976B /* LocationData.json */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -34,9 +41,9 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		9E27A51C22C1FDDE004A16E2 /* DummyViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DummyViewController.swift; sourceTree = "<group>"; };
 		9E9C9A7221B8EDC0008A976B /* Docto.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = Docto.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		9E9C9A7521B8EDC0008A976B /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		9E9C9A7721B8EDC0008A976B /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
 		9E9C9A7A21B8EDC0008A976B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		9E9C9A7C21B8EDC2008A976B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		9E9C9A7F21B8EDC2008A976B /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
@@ -47,6 +54,13 @@
 		9E9C9A9121B8EDC2008A976B /* DoctoUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = DoctoUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		9E9C9A9521B8EDC2008A976B /* DoctoUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DoctoUITests.swift; sourceTree = "<group>"; };
 		9E9C9A9721B8EDC2008A976B /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		9E9C9AA521B8EE72008A976B /* DoctoM.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DoctoM.swift; sourceTree = "<group>"; };
+		9E9C9AA721B8F471008A976B /* AvailableDoctorsVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AvailableDoctorsVC.swift; sourceTree = "<group>"; };
+		9E9C9AA921B8F4D0008A976B /* MianVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MianVC.swift; sourceTree = "<group>"; };
+		9E9C9AAB21B8F68E008A976B /* MyAppointmentsVC.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MyAppointmentsVC.swift; sourceTree = "<group>"; };
+		9E9C9AAD21B8F868008A976B /* DoctorsCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DoctorsCell.swift; sourceTree = "<group>"; };
+		9E9C9AAF21B8F88E008A976B /* TimeSlotsCell.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TimeSlotsCell.swift; sourceTree = "<group>"; };
+		9E9C9AB321B8FDE0008A976B /* LocationData.json */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.json; path = LocationData.json; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -98,10 +112,17 @@
 			isa = PBXGroup;
 			children = (
 				9E9C9A7521B8EDC0008A976B /* AppDelegate.swift */,
-				9E9C9A7721B8EDC0008A976B /* ViewController.swift */,
+				9E9C9AA721B8F471008A976B /* AvailableDoctorsVC.swift */,
+				9E9C9AAB21B8F68E008A976B /* MyAppointmentsVC.swift */,
+				9E9C9AA921B8F4D0008A976B /* MianVC.swift */,
+				9E9C9AAD21B8F868008A976B /* DoctorsCell.swift */,
+				9E27A51C22C1FDDE004A16E2 /* DummyViewController.swift */,
+				9E9C9AAF21B8F88E008A976B /* TimeSlotsCell.swift */,
+				9E9C9AA521B8EE72008A976B /* DoctoM.swift */,
 				9E9C9A7921B8EDC0008A976B /* Main.storyboard */,
 				9E9C9A7C21B8EDC2008A976B /* Assets.xcassets */,
 				9E9C9A7E21B8EDC2008A976B /* LaunchScreen.storyboard */,
+				9E9C9AB321B8FDE0008A976B /* LocationData.json */,
 				9E9C9A8121B8EDC2008A976B /* Info.plist */,
 			);
 			path = Docto;
@@ -229,6 +250,7 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				9E9C9AB421B8FDE0008A976B /* LocationData.json in Resources */,
 				9E9C9A8021B8EDC2008A976B /* LaunchScreen.storyboard in Resources */,
 				9E9C9A7D21B8EDC2008A976B /* Assets.xcassets in Resources */,
 				9E9C9A7B21B8EDC0008A976B /* Main.storyboard in Resources */,
@@ -256,8 +278,14 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				9E9C9A7821B8EDC0008A976B /* ViewController.swift in Sources */,
 				9E9C9A7621B8EDC0008A976B /* AppDelegate.swift in Sources */,
+				9E9C9AAA21B8F4D0008A976B /* MianVC.swift in Sources */,
+				9E9C9AB021B8F88E008A976B /* TimeSlotsCell.swift in Sources */,
+				9E9C9AAE21B8F868008A976B /* DoctorsCell.swift in Sources */,
+				9E9C9AA621B8EE72008A976B /* DoctoM.swift in Sources */,
+				9E9C9AA821B8F471008A976B /* AvailableDoctorsVC.swift in Sources */,
+				9E9C9AAC21B8F68E008A976B /* MyAppointmentsVC.swift in Sources */,
+				9E27A51D22C1FDDE004A16E2 /* DummyViewController.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
